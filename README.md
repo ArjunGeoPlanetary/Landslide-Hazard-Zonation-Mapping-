@@ -31,3 +31,7 @@ The methodology involves assigning numerical values to major causative factors b
 * **Software:** ArcGIS Pro /ArcMap .
 * **Standard:** IS 14496 (Part 2): 1998.
 * **Application:** Infrastructure planning, hydropower project siting, and disaster mitigation for Himalayan and Western Ghats regions.
+
+
+
+* **Note**: Due to the classified nature of the government projects, I am not allowed to share any images or maps regarding the project.
